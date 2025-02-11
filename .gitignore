@@ -1,0 +1,6 @@
+**/*.pyc
+**/.ipynb_checkpoints/*.*
+**/*.zip
+**/*.index
+**/*.mp4
+**/*.npy
